@@ -23,6 +23,6 @@ spec:
         - secretRef:
             name: db-secret
         name: app-deployment
-        image: harbor.dev.afsmtddso.com/ddiaz-harbor-project/db@sha256:05378366c89a7e1028d63bf432dd472a97dfdcbcbde6755cd9942690f9d7fe95
+        image: harbor.dev.afsmtddso.com/ddiaz-harbor-project/app@sha256:d0cdc0a18bbcc2d506dbdf41d581a8cb79de002fbda4328734714292c4620ec6
         ports:
         - containerPort: 5000
