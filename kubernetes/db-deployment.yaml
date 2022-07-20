@@ -25,4 +25,4 @@ spec:
         name: db-deployment
         image: harbor.dev.afsmtddso.com/ddiaz-harbor-project/db@sha256:05378366c89a7e1028d63bf432dd472a97dfdcbcbde6755cd9942690f9d7fe95
         ports: 5432
-        - containerPort: <CONTAINER PORT>
+        - containerPort: 5432
