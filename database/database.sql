@@ -1,5 +1,8 @@
---Hello
+--
 -- PostgreSQL database dump
+--
+--
+-- PostgreSQL database test
 --
 
 -- Dumped from database version 9.5.4
