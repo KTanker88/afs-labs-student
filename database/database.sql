@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 --
--- PostgreSQL database test
+-- hello
 --
 
 -- Dumped from database version 9.5.4
